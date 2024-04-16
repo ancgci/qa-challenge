@@ -18,7 +18,7 @@ Certifique-se de que seu pull request está sendo enviado no link do formulário
 Estou ansioso para ver sua abordagem criativa e eficiente para este desafio de testes automatizados.
 Boa sorte!
 
-## Atividade Realizada ficamos a disposição
+## Atividade realizada contato:
 
 <a href="https://wa.me/5527992456277?text=Olá,%20como%20posso%20te%20ajudar?">
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
